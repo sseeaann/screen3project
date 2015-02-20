@@ -1,0 +1,290 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 970px;
+	margin: 0px auto;
+}
+
+.header h1 {
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 10px;
+}
+
+.header h1 img {
+	
+}
+
+.h1-word {
+	color: gray;
+	font-weight: normal;
+}
+
+.h1-stream {
+	color: blue;
+	font-weight: normal;
+}
+
+div.header-title {
+	width: 280px;
+	/*border: 1px dashed black;*/
+	display: inline-block;
+	padding-top: 15px;
+	margin-left: 10px;
+}
+
+div.header-nav {
+	/*border: 1px dashed black;*/
+	width: 670px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+.nav-links {
+	color: grey;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin-left: 45%;
+	font-size: 12px;
+	border-color: #eee;
+	border: 1px solid #eee;
+}
+
+.header-nav p {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.nav-links a {
+	text-decoration: none;
+	color: grey;
+}
+
+.login-button {
+	background-color: blue;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 2px 10px;
+	color: white;
+}
+
+.header2 {
+	background-color: blue;
+}
+
+.header2 h2 {
+	color: white;
+	font-weight: normal;
+	font-size: 24px;
+	padding: 15px 0px 15px 10px;
+}
+
+.sidebar {
+	width: 220px;
+	padding: 50px 0px 0px 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+	.sidebar h6 {
+		color: blue;
+		font-weight: normal;
+		font-size: 18px;
+		line-height: 20px;
+		padding-bottom: 10px;
+	}
+
+.sidebar p {
+	font-size: 12px;
+}
+
+span.span1 {
+	color: red;
+	font-weight: bold;
+}
+
+.sidebar a {
+	text-decoration: none;
+}
+
+.demo-button {
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+	width: 190px;
+	padding: 5px 40px 5px 40px;
+	margin: 15px 0px 5px 0px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.free-trial-button {
+	background-color: orange;
+	color: white;
+	border-radius: 5px;
+	width: 190px;
+	padding: 5px 60px 5px 60px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+span.span2 {
+	padding: 0px 30px 0px 30px;
+}
+
+div.sidebar-content {
+	border-bottom: 1px solid #eee;
+	overflow: hidden; 
+	padding-bottom: 5px;
+}
+
+div.left-ad {
+	padding: 10px;
+	/*border: 1px dashed black;*/
+	width: 178px;
+	height: 222px;
+	margin-top: 10px;
+	background-image: url(screen3-images/left_content_ad.jpeg);
+	line-height: 20px;
+}
+
+.left-ad h3 {
+	color: blue;
+	font-size: 20px;
+}
+
+.ad-graded {
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+	padding: 2px 20px;
+}
+
+.body-container {
+	width: 730px;
+	display: inline-block;
+}
+
+.content-body-header {
+	width: 730px;
+	display: inline-block;
+	border-bottom: 1px solid gray;
+}
+
+.content-body-header h6 {
+	display: inline-block;
+	vertical-align: middle;
+	padding-bottom: 20px;
+	color: blue; 
+}
+
+div.breadcrumbs {
+	width: auto;
+	display: inline-block;
+}
+
+div.breadcrumbs img {
+	padding-bottom: 5px;
+}
+
+div.phone-img {
+	display: inline-block;
+	margin-left: 470px;
+}
+
+	.phone-img p {
+		display: block;
+		font-size: 10px;
+	}
+
+.contact-info {
+	display: inline-block;
+	color: gray;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+span.phone-no {
+	color: blue;
+	font-size: 21px;
+	letter-spacing: 1px;
+}
+
+.content-body {
+	width: 730px;
+	display: inline-block;
+}
+
+div.content-body h4 {
+	color: blue;
+	padding: 10px 0px;
+	font-size: 18px;
+}
+
+div.content-body p {
+	font-size: 14px;
+}
+
+div.content-body ul {
+	list-style-position: inside;
+	padding: 10px 0px;
+	margin: 0px;
+	font-size: 14px;
+	display: inline-block;
+}
+
+span.bold {
+	font-weight: bold;
+}
+
+div.body-ad {
+	border: 2px solid blue;
+	padding: 5px;
+	margin-right: 40px;
+	margin-top: 20px;
+}
+
+div.body-ad-img {
+	display: inline-block;
+	/*border: 1px dashed black;*/
+	height: 100px;
+}
+
+div.body-ad-content {
+	/*border: 1px dashed black;*/
+	vertical-align: top;
+	width: 590px;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+div.body-ad-content h4 {
+	display: inline-block;
+}
+
+div.body-ad p {
+	display: inline-block;
+}
+
+
+.mid-ad-button {
+	background-color: #00ff00;
+	color: white;
+	border-radius: 5px;
+	width: 190px;
+	padding: 5px 0px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+div.content-body h6 {
+	color: blue;
+	padding: 10px 0px;
+}
+
